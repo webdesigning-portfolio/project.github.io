@@ -4,6 +4,13 @@
 	font-family: century gothic;
 }
 
+
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+}
+
 header{
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(accident.jpeg);
 	height: 100vh;
